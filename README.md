@@ -1,4 +1,4 @@
-# Random-generated-maze
+# Maze-generator
 
 Implementation of the binary tree algorithm for constructing a randomly generated maze using the SFML library.
 
